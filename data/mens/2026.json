@@ -1,0 +1,392 @@
+{
+  "division": "mens",
+  "year": 2026,
+  "sourceFile": "Tournament Matchups.csv",
+  "importedAt": "2026-03-18T15:10:40.2678655-04:00",
+  "teams": [
+    {
+      "team": "Duke",
+      "seed": 1,
+      "region": "Region 1",
+      "firstRoundGame": 1
+    },
+    {
+      "team": "Siena",
+      "seed": 16,
+      "region": "Region 1",
+      "firstRoundGame": 1
+    },
+    {
+      "team": "Ohio St.",
+      "seed": 8,
+      "region": "Region 1",
+      "firstRoundGame": 2
+    },
+    {
+      "team": "TCU",
+      "seed": 9,
+      "region": "Region 1",
+      "firstRoundGame": 2
+    },
+    {
+      "team": "St. John\u0027s",
+      "seed": 5,
+      "region": "Region 1",
+      "firstRoundGame": 3
+    },
+    {
+      "team": "Northern Iowa",
+      "seed": 12,
+      "region": "Region 1",
+      "firstRoundGame": 3
+    },
+    {
+      "team": "Kansas",
+      "seed": 4,
+      "region": "Region 1",
+      "firstRoundGame": 4
+    },
+    {
+      "team": "Cal Baptist",
+      "seed": 13,
+      "region": "Region 1",
+      "firstRoundGame": 4
+    },
+    {
+      "team": "Louisville",
+      "seed": 6,
+      "region": "Region 1",
+      "firstRoundGame": 5
+    },
+    {
+      "team": "South Florida",
+      "seed": 11,
+      "region": "Region 1",
+      "firstRoundGame": 5
+    },
+    {
+      "team": "Michigan St.",
+      "seed": 3,
+      "region": "Region 1",
+      "firstRoundGame": 6
+    },
+    {
+      "team": "North Dakota St.",
+      "seed": 14,
+      "region": "Region 1",
+      "firstRoundGame": 6
+    },
+    {
+      "team": "UCLA",
+      "seed": 7,
+      "region": "Region 1",
+      "firstRoundGame": 7
+    },
+    {
+      "team": "UCF",
+      "seed": 10,
+      "region": "Region 1",
+      "firstRoundGame": 7
+    },
+    {
+      "team": "Connecticut",
+      "seed": 2,
+      "region": "Region 1",
+      "firstRoundGame": 8
+    },
+    {
+      "team": "Furman",
+      "seed": 15,
+      "region": "Region 1",
+      "firstRoundGame": 8
+    },
+    {
+      "team": "Florida",
+      "seed": 1,
+      "region": "Region 2",
+      "firstRoundGame": 1
+    },
+    {
+      "team": "Lehigh",
+      "seed": 16,
+      "region": "Region 2",
+      "firstRoundGame": 1
+    },
+    {
+      "team": "Clemson",
+      "seed": 8,
+      "region": "Region 2",
+      "firstRoundGame": 2
+    },
+    {
+      "team": "Iowa",
+      "seed": 9,
+      "region": "Region 2",
+      "firstRoundGame": 2
+    },
+    {
+      "team": "Vanderbilt",
+      "seed": 5,
+      "region": "Region 2",
+      "firstRoundGame": 3
+    },
+    {
+      "team": "McNeese St.",
+      "seed": 12,
+      "region": "Region 2",
+      "firstRoundGame": 3
+    },
+    {
+      "team": "Nebraska",
+      "seed": 4,
+      "region": "Region 2",
+      "firstRoundGame": 4
+    },
+    {
+      "team": "Troy",
+      "seed": 13,
+      "region": "Region 2",
+      "firstRoundGame": 4
+    },
+    {
+      "team": "North Carolina",
+      "seed": 6,
+      "region": "Region 2",
+      "firstRoundGame": 5
+    },
+    {
+      "team": "VCU",
+      "seed": 11,
+      "region": "Region 2",
+      "firstRoundGame": 5
+    },
+    {
+      "team": "Illinois",
+      "seed": 3,
+      "region": "Region 2",
+      "firstRoundGame": 6
+    },
+    {
+      "team": "Penn",
+      "seed": 14,
+      "region": "Region 2",
+      "firstRoundGame": 6
+    },
+    {
+      "team": "Saint Mary\u0027s",
+      "seed": 7,
+      "region": "Region 2",
+      "firstRoundGame": 7
+    },
+    {
+      "team": "Texas A\u0026M",
+      "seed": 10,
+      "region": "Region 2",
+      "firstRoundGame": 7
+    },
+    {
+      "team": "Houston",
+      "seed": 2,
+      "region": "Region 2",
+      "firstRoundGame": 8
+    },
+    {
+      "team": "Idaho",
+      "seed": 15,
+      "region": "Region 2",
+      "firstRoundGame": 8
+    },
+    {
+      "team": "Arizona",
+      "seed": 1,
+      "region": "Region 3",
+      "firstRoundGame": 1
+    },
+    {
+      "team": "LIU Brooklyn",
+      "seed": 16,
+      "region": "Region 3",
+      "firstRoundGame": 1
+    },
+    {
+      "team": "Villanova",
+      "seed": 8,
+      "region": "Region 3",
+      "firstRoundGame": 2
+    },
+    {
+      "team": "Utah St.",
+      "seed": 9,
+      "region": "Region 3",
+      "firstRoundGame": 2
+    },
+    {
+      "team": "Wisconsin",
+      "seed": 5,
+      "region": "Region 3",
+      "firstRoundGame": 3
+    },
+    {
+      "team": "High Point",
+      "seed": 12,
+      "region": "Region 3",
+      "firstRoundGame": 3
+    },
+    {
+      "team": "Arkansas",
+      "seed": 4,
+      "region": "Region 3",
+      "firstRoundGame": 4
+    },
+    {
+      "team": "Hawaii",
+      "seed": 13,
+      "region": "Region 3",
+      "firstRoundGame": 4
+    },
+    {
+      "team": "BYU",
+      "seed": 6,
+      "region": "Region 3",
+      "firstRoundGame": 5
+    },
+    {
+      "team": "North Carolina St.",
+      "seed": 11,
+      "region": "Region 3",
+      "firstRoundGame": 5
+    },
+    {
+      "team": "Gonzaga",
+      "seed": 3,
+      "region": "Region 3",
+      "firstRoundGame": 6
+    },
+    {
+      "team": "Kennesaw St.",
+      "seed": 14,
+      "region": "Region 3",
+      "firstRoundGame": 6
+    },
+    {
+      "team": "Miami FL",
+      "seed": 7,
+      "region": "Region 3",
+      "firstRoundGame": 7
+    },
+    {
+      "team": "Missouri",
+      "seed": 10,
+      "region": "Region 3",
+      "firstRoundGame": 7
+    },
+    {
+      "team": "Purdue",
+      "seed": 2,
+      "region": "Region 3",
+      "firstRoundGame": 8
+    },
+    {
+      "team": "Queens",
+      "seed": 15,
+      "region": "Region 3",
+      "firstRoundGame": 8
+    },
+    {
+      "team": "Michigan",
+      "seed": 1,
+      "region": "Region 4",
+      "firstRoundGame": 1
+    },
+    {
+      "team": "Howard",
+      "seed": 16,
+      "region": "Region 4",
+      "firstRoundGame": 1
+    },
+    {
+      "team": "Georgia",
+      "seed": 8,
+      "region": "Region 4",
+      "firstRoundGame": 2
+    },
+    {
+      "team": "Saint Louis",
+      "seed": 9,
+      "region": "Region 4",
+      "firstRoundGame": 2
+    },
+    {
+      "team": "Texas Tech",
+      "seed": 5,
+      "region": "Region 4",
+      "firstRoundGame": 3
+    },
+    {
+      "team": "Akron",
+      "seed": 12,
+      "region": "Region 4",
+      "firstRoundGame": 3
+    },
+    {
+      "team": "Alabama",
+      "seed": 4,
+      "region": "Region 4",
+      "firstRoundGame": 4
+    },
+    {
+      "team": "Hofstra",
+      "seed": 13,
+      "region": "Region 4",
+      "firstRoundGame": 4
+    },
+    {
+      "team": "Tennessee",
+      "seed": 6,
+      "region": "Region 4",
+      "firstRoundGame": 5
+    },
+    {
+      "team": "Miami OH",
+      "seed": 11,
+      "region": "Region 4",
+      "firstRoundGame": 5
+    },
+    {
+      "team": "Virginia",
+      "seed": 3,
+      "region": "Region 4",
+      "firstRoundGame": 6
+    },
+    {
+      "team": "Wright St.",
+      "seed": 14,
+      "region": "Region 4",
+      "firstRoundGame": 6
+    },
+    {
+      "team": "Kentucky",
+      "seed": 7,
+      "region": "Region 4",
+      "firstRoundGame": 7
+    },
+    {
+      "team": "Santa Clara",
+      "seed": 10,
+      "region": "Region 4",
+      "firstRoundGame": 7
+    },
+    {
+      "team": "Iowa St.",
+      "seed": 2,
+      "region": "Region 4",
+      "firstRoundGame": 8
+    },
+    {
+      "team": "Tennessee St.",
+      "seed": 15,
+      "region": "Region 4",
+      "firstRoundGame": 8
+    }
+  ]
+}

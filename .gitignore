@@ -1,0 +1,4 @@
+.dotnet/
+.templateengine/
+bin/
+obj/
