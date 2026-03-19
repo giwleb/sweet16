@@ -34,7 +34,7 @@ Pull the men's and women's fields for a season from official NCAA pages:
 dotnet run -- scrape --year 2026
 ```
 
-This writes a combined file like `data/ncaa-tournament-seeds-2026.json`.
+This writes output under a local `data/` directory.
 
 ### Import men's bracket data from CSV
 
@@ -44,7 +44,7 @@ Normalize a men's bracket CSV into the repo's field format:
 dotnet run -- import-men --csv "C:\path\to\Tournament Matchups.csv" --year 2026
 ```
 
-By default this writes to `data/mens/<year>.json`.
+By default this writes to a local file under `data/mens/`.
 
 ### Simulate a men's seedweight bracket
 
@@ -62,22 +62,9 @@ dotnet run -- seedweight-men --input data\mens\2026.json --seed 16
 
 By default this writes a timestamped scenario file under `data/mens/scenarios/`.
 
-## Repo Layout
-
-```text
-data/
-  mens/
-    2026.json
-    scenarios/
-  womens/
-    2026.json
-    scenarios/
-Program.cs
-sweet16.csproj
-```
-
 ## Notes
 
 - The current CLI surface exposes `import-men`, `seedweight-men`, and `scrape`.
+- Generated/imported tournament files live in local `data/` output and are not intended to be committed.
 - Women's entrant data is scraped and stored, but there is not yet a dedicated `seedweight-women` command exposed by the CLI.
 - The project currently lives in a single-file app for speed while the data model and workflows settle down.
