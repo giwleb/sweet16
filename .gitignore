@@ -2,3 +2,9 @@
 .templateengine/
 bin/
 obj/
+.vs/
+*.user
+*.rsuser
+*.suo
+TestResults/
+artifacts/
